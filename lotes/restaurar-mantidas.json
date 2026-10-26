@@ -1,0 +1,66 @@
+[
+{
+"sku": 1015,
+"link": "Selo-de-autenticidade",
+"texto": "Morosil 500mg - selo de autenticidade",
+"url": "https://raw.githubusercontent.com/medicinal-na-web/medicinal-product-images/main/restauradas/1015_selo-de-autenticidade.jpg",
+"principal": false,
+"md5": "6170f4668b17b8409d0444099bd8c913"
+},
+{
+"sku": 1015,
+"link": "AN-Morosil-02",
+"texto": "Morosil 500mg - aliado no gerenciamento de peso",
+"url": "https://raw.githubusercontent.com/medicinal-na-web/medicinal-product-images/main/restauradas/1015_an-morosil-02.jpg",
+"principal": false,
+"md5": "c54cae0b0a9578f88fd2bb1d73dfd013"
+},
+{
+"sku": 1115,
+"link": "Epicor-2",
+"texto": "Epicor 500mg - verso da embalagem",
+"url": "https://raw.githubusercontent.com/medicinal-na-web/medicinal-product-images/main/restauradas/1115_epicor-2.png",
+"principal": false,
+"md5": "3561496880224886291125fbbeb1057a"
+},
+{
+"sku": 1210,
+"link": "mockup-biosil-verso",
+"texto": "Biosil 520mg - verso da embalagem",
+"url": "https://raw.githubusercontent.com/medicinal-na-web/medicinal-product-images/main/restauradas/1210_mockup-biosil-verso.png",
+"principal": false,
+"md5": "0545583c1156dba85676db619ec0cfd8"
+},
+{
+"sku": 1215,
+"link": "mitiburn-2",
+"texto": "Mitburn 50mg - verso da embalagem",
+"url": "https://raw.githubusercontent.com/medicinal-na-web/medicinal-product-images/main/restauradas/1215_mitiburn-2.png",
+"principal": false,
+"md5": "5099340e3721e1c59597497c0f5a88c2"
+},
+{
+"sku": 28002,
+"link": "mockup-clonapure-verso",
+"texto": "Clonapure 100g - verso da embalagem",
+"url": "https://raw.githubusercontent.com/medicinal-na-web/medicinal-product-images/main/restauradas/28002_mockup-clonapure-verso.png",
+"principal": false,
+"md5": "6208e5e9d2d825f268fe12e31db72759"
+},
+{
+"sku": 50003,
+"link": "mockup-peptistrong-verso",
+"texto": "Peptistrong - verso da embalagem",
+"url": "https://raw.githubusercontent.com/medicinal-na-web/medicinal-product-images/main/restauradas/50003_mockup-peptistrong-verso.jpg",
+"principal": false,
+"md5": "8d94171ac4a676b62ce392b8a0572506"
+},
+{
+"sku": 50004,
+"link": "mockup-peptistrong-verso",
+"texto": "Peptistrong - verso da embalagem",
+"url": "https://raw.githubusercontent.com/medicinal-na-web/medicinal-product-images/main/restauradas/50004_mockup-peptistrong-verso.jpg",
+"principal": false,
+"md5": "8d94171ac4a676b62ce392b8a0572506"
+}
+]
