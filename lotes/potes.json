@@ -1,0 +1,1322 @@
+[
+{
+"sku": 1000,
+"link": "koubo-200mg-60-doses",
+"texto": "Koubo 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1001,
+"link": "pholia-roja-200mg-60-doses",
+"texto": "Pholia Roja 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1002,
+"link": "modulip-cg-200mg-60-doses",
+"texto": "Modulip Cg 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1003,
+"link": "sinetrol-350mg-60-doses",
+"texto": "Sinetrol 350mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1004,
+"link": "coleus-forskolli-300mg-60-doses",
+"texto": "Coleus Forskohlii 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1005,
+"link": "garcinia-cambogia-500mg-60-doses",
+"texto": "Garcinia Cambogia 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1006,
+"link": "pholiamagra-300mg-60-doses",
+"texto": "Pholiamagra 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1007,
+"link": "citrus-aurantium-500mg-60-doses",
+"texto": "Citrus Aurantium 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1008,
+"link": "citrimax-750mg-60-doses",
+"texto": "Citrimax 750mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1009,
+"link": "capsiate-6mg-30-doses",
+"texto": "Capsiate 6mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1010,
+"link": "gengibre-450mg-90-doses",
+"texto": "Gengibre 450mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1011,
+"link": "cha-verde-500mg-60-doses",
+"texto": "Chá Verde 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1012,
+"link": "orlistat-120mg-60-doses",
+"texto": "Orlistat 120mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1013,
+"link": "chitosan-500mg-60-doses",
+"texto": "Chitosan 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1014,
+"link": "ayslin-500mg-60-doses",
+"texto": "Ayslin 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1016,
+"link": "cactin-500mg-60-doses",
+"texto": "Cactin 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1017,
+"link": "hibisco-500mg-60-doses",
+"texto": "Hibisco 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1018,
+"link": "cascara-sagrada-75mg-60-doses",
+"texto": "Cáscara Sagrada 75mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1019,
+"link": "uva-ursi-500mg-90-doses",
+"texto": "Uva Ursi 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1020,
+"link": "centella-asiatica-500mg-90-doses",
+"texto": "Centella Asiática 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1021,
+"link": "cavalinha-100mg-60-doses",
+"texto": "Cavalinha 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1022,
+"link": "castanha-da-india-500mg-60-doses",
+"texto": "Castanha da Índia 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1023,
+"link": "espinheira-santa-500mg-60-doses",
+"texto": "Espinheira Santa 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1024,
+"link": "metabolize-4-500mg-60-doses",
+"texto": "Metabolize 4 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1025,
+"link": "neopuntia-500mg-60-doses",
+"texto": "Neopuntia 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1026,
+"link": "yoimbina-hcl-5mg-30-doses",
+"texto": "Yoimbina HCl 5mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1027,
+"link": "slendesta-300mg-60-doses",
+"texto": "Slendesta 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1028,
+"link": "insea-2-250mg-60-doses",
+"texto": "Insea 2 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1029,
+"link": "zembrim-8mg-30-doses",
+"texto": "Zembrim 8mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1030,
+"link": "hidroxitriptofano-5-200mg-60-doses",
+"texto": "5-HTP 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1031,
+"link": "picolinato-cromo-200mcg-60-doses",
+"texto": "Picolinato de Cromo 200mcg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1032,
+"link": "cassialamina-500mg-60-doses",
+"texto": "Cassialamina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1033,
+"link": "phaseolus-vulgaris-500mg-60-doses",
+"texto": "Phaseolus Vulgaris 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1034,
+"link": "gymnema-sylvestre-400mg-60-doses",
+"texto": "Gymnema Sylvestre 400mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1035,
+"link": "dimpless-40mg-30-doses",
+"texto": "Dimpless 40mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1036,
+"link": "meratrim-400mg-60-doses",
+"texto": "Meratrim 400mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1037,
+"link": "relora-250mg-30-doses",
+"texto": "Relora 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1038,
+"link": "active-assafre-250mg-60-doses",
+"texto": "Active Assafre 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1039,
+"link": "goji-berry-500mg-60-doses",
+"texto": "Goji Berry 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1040,
+"link": "teanina-200mg-60-doses",
+"texto": "Teanina 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1041,
+"link": "matcha-500mg-60-doses",
+"texto": "Matcha 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1042,
+"link": "serenzo-500mg-30-doses",
+"texto": "Serenzo 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1043,
+"link": "psyllium-500mg-60-doses",
+"texto": "Psyllium 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1044,
+"link": "guarana-500mg-60-doses",
+"texto": "Guaraná 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1045,
+"link": "goma-guar-500mg-60-doses",
+"texto": "Goma Guar 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1046,
+"link": "glucomannan-500mg-60-doses",
+"texto": "Glucomannan 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1047,
+"link": "endorfell-nutri-150mg-60-doses",
+"texto": "Endorfell Nutri 150mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1048,
+"link": "spirulina-500mg-90-doses",
+"texto": "Spirulina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1049,
+"link": "cissus-quadrangularis-150mg-60-doses",
+"texto": "Cissus Quadrangularis 150mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1050,
+"link": "clorella-500mg-60-doses",
+"texto": "Clorella 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1051,
+"link": "cha-branco-ext-500mg-60-doses",
+"texto": "Chá Branco Extrato 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1052,
+"link": "cha-vermelho-ext-500mg-60-doses",
+"texto": "Chá Vermelho Extrato 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1053,
+"link": "alcachofra-ext-500mg-60-doses",
+"texto": "Alcachofra Extrato 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1054,
+"link": "carqueja-250mg-60-doses",
+"texto": "Carqueja 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1055,
+"link": "cafeina-100mg-30-doses",
+"texto": "Cafeína 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1056,
+"link": "berinjela-ext-seco-450mg-90-doses",
+"texto": "Berinjela Extrato Seco 450mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1057,
+"link": "green-select-120mg-60-doses",
+"texto": "Green Select 120mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1058,
+"link": "triptofano-500mg-60-doses",
+"texto": "Triptofano 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1059,
+"link": "canela-500mg-60-doses",
+"texto": "Canela 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1060,
+"link": "lowat-300mg-60-doses",
+"texto": "Lowat 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1061,
+"link": "altilix-200mg-30-doses",
+"texto": "Altilix 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1062,
+"link": "gynostemma-pentaphyllum-120mg-30-doses",
+"texto": "Gynostemma Pentaphyllum 120mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1063,
+"link": "tirosina-500mg-30-doses",
+"texto": "Tirosina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1064,
+"link": "magnolia-officinalis-250mg-60-doses",
+"texto": "Magnolia Officinalis 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1065,
+"link": "berberine-500mg-30-doses",
+"texto": "Berberine 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1066,
+"link": "green-coffe-berry-250mg-30-doses",
+"texto": "Green Coffee Berry 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1067,
+"link": "id-alg-250mg-60-doses",
+"texto": "ID-alG 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1068,
+"link": "fenulife-1000mg-60-doses",
+"texto": "Fenulife 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1069,
+"link": "uc-ii-40mg-30-doses",
+"texto": "Uc-II 40mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1070,
+"link": "oli-ola-300mg-30-doses",
+"texto": "Oli-Ola 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1071,
+"link": "pueraria-mirifica-500mg-60-doses",
+"texto": "Pueraria Mirífica 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1072,
+"link": "ac-hialuronico-250mg-60-doses",
+"texto": "Ácido Hialurônico 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1073,
+"link": "biotina-5mg-30-doses",
+"texto": "Biotina 5mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1074,
+"link": "glycoxil-300mg-30-doses",
+"texto": "Glycoxil 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1075,
+"link": "exsynutriment-300mg-30-doses",
+"texto": "Exsynutriment 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1076,
+"link": "zinco-quelato-30mg-30-doses",
+"texto": "Zinco Quelato 30mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1077,
+"link": "betaina-300mg-90-doses",
+"texto": "Betaína 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1078,
+"link": "fosfolipideos-de-caviar-200mg-60-doses",
+"texto": "Fosfolipídeos de Caviar 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1079,
+"link": "nutricolin-300mg-30-doses",
+"texto": "Nutricolin 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1080,
+"link": "bio-arct-150mg-30-doses",
+"texto": "Bio-Arct 150mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1081,
+"link": "i-plus-400mg-30-doses",
+"texto": "I-Plus 400mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1082,
+"link": "coenzima-q10-150mg-30-doses",
+"texto": "Coenzima Q10 150mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1083,
+"link": "resveratrol-100mg-30-doses",
+"texto": "Resveratrol 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1084,
+"link": "polypodium-leucotomos-250mg-30-doses",
+"texto": "Polypodium Leucotomos 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1085,
+"link": "coordia-eucalyculata-300mg-60-doses",
+"texto": "Cordia Ecalyculata 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1086,
+"link": "rhodiola-rosea-300mg-30-doses",
+"texto": "Rhodiola Rosea 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1087,
+"link": "ashwaganda-300mg-30-doses",
+"texto": "Ashwagandha 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1088,
+"link": "vitex-agnus-castus-370mg-30-doses",
+"texto": "Vitex Agnus Castus 370mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1089,
+"link": "mulungu-450mg-30-doses",
+"texto": "Mulungu 450mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1090,
+"link": "prosleep-130mg-30-doses",
+"texto": "Prosleep 130mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1091,
+"link": "passiflora-450mg-30-doses",
+"texto": "Passiflora 450mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1092,
+"link": "same-200mg-30-doses",
+"texto": "Same 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1093,
+"link": "slendacor-450mg-60-doses",
+"texto": "Slendacor 450mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1094,
+"link": "carob-active-250mg-60-doses",
+"texto": "Carob Active 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1095,
+"link": "go-bhb-3000mg-30-doses",
+"texto": "GO BHB 3000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1096,
+"link": "piperina-15mg-60-doses",
+"texto": "Piperina 15mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1097,
+"link": "evodia-30mg-60-doses",
+"texto": "Evodia 30mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1098,
+"link": "paradoxine-40mg-60-doses",
+"texto": "Paradoxine 40mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1100,
+"link": "wellmune-250mg-30-doses",
+"texto": "Wellmune 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1101,
+"link": "b2cool-40mg-30-doses",
+"texto": "B2Cool 40mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1104,
+"link": "testofen-300mg-60-doses",
+"texto": "Testofen 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1105,
+"link": "indol-3-carbinol-400mg-30-doses",
+"texto": "Indol-3-Carbinol 400mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1106,
+"link": "long-jack-extrato-400mg-30-doses",
+"texto": "Long Jack Extrato 400mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1107,
+"link": "move-100mg-30-doses",
+"texto": "Move 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1108,
+"link": "saffrin-90mg-60-doses",
+"texto": "Saffrin 90mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1109,
+"link": "cordyceps-sinensis-650mg-30-doses",
+"texto": "Cordyceps Sinensis 650mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1110,
+"link": "avocado-300mg-60-doses",
+"texto": "Avocado 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1111,
+"link": "alfa-gpc-300mg-30-doses",
+"texto": "Alfa GPC 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1112,
+"link": "champorus-250mg-30-doses",
+"texto": "Champorus 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1114,
+"link": "lisina-500mg-30-doses",
+"texto": "Lisina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1116,
+"link": "boswellia-serrata-200mg-90-doses",
+"texto": "Boswellia Serrata 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1117,
+"link": "astaxantina-4mg-30-doses",
+"texto": "Astaxantina 4mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1118,
+"link": "yam-mexicano-500mg-60-doses",
+"texto": "Yam Mexicano 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1119,
+"link": "xanthoparmelia-scabrosa-100mg-30-doses",
+"texto": "Xanthoparmelia Scabrosa 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1120,
+"link": "vit-c-500mg-30-doses",
+"texto": "Vitamina C 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1121,
+"link": "unha-de-gato-250mg-30-doses",
+"texto": "Unha de Gato 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1122,
+"link": "sucupira-400mg-60-doses",
+"texto": "Sucupira 400mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1123,
+"link": "sene-100mg-30-doses",
+"texto": "Sene 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1124,
+"link": "policosanol-10mg-60-doses",
+"texto": "Policosanol 10mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1125,
+"link": "melissa-500mg-60-doses",
+"texto": "Melissa 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1126,
+"link": "mucuna-pruriens-400mg-30-doses",
+"texto": "Mucuna Pruriens 400mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1127,
+"link": "ginseng-300mg-30-doses",
+"texto": "Ginseng 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1128,
+"link": "epimedium-icariin-500mg-60-doses",
+"texto": "Epimedium Icariin 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1129,
+"link": "cramberry-500mg-60-doses",
+"texto": "Cranberry 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1130,
+"link": "lactase-500mg-60-doses",
+"texto": "Lactase 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1131,
+"link": "cimicifuga-racemosa-80mg-60-doses",
+"texto": "Cimicifuga Racemosa 80mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1132,
+"link": "boldo-250mg-90-doses",
+"texto": "Boldo 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1133,
+"link": "cartidyss-200mg-30-doses",
+"texto": "Cartidyss 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1134,
+"link": "osteosil-200mg-30-doses",
+"texto": "Osteosil 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1135,
+"link": "pinus-pinaster-150mg-30-doses",
+"texto": "Pinus Pinaster 150mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1136,
+"link": "pqq-10mg-30-doses",
+"texto": "PQQ 10mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1137,
+"link": "betacaroteno-50mg-30-doses",
+"texto": "Betacaroteno 50mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1138,
+"link": "acido-lipoico-500mg-30-doses",
+"texto": "Ácido Lipoico 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1139,
+"link": "stomazinc-150mg-30-doses",
+"texto": "Stomazinc 150mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1140,
+"link": "seaberry-omega-7-500mg-60-doses",
+"texto": "Seaberry Omega 7 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1141,
+"link": "niagen-100mg-30-doses",
+"texto": "Niagen 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1142,
+"link": "allyl-abg-250mg-60-doses",
+"texto": "Allyl ABG 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1143,
+"link": "mobilee-80mg-30-doses",
+"texto": "Mobilee 80mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1144,
+"link": "brocolinol-500mg-60-doses",
+"texto": "Brocolinol 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1145,
+"link": "ginseng-siberiano-300mg-60-doses",
+"texto": "Ginseng Siberiano 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1146,
+"link": "salix-alba-300mg-30-doses",
+"texto": "Salix Alba 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1147,
+"link": "silimarina-200mg-60-doses",
+"texto": "Silimarina 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1148,
+"link": "hamamelis-ext-seco-200mg-60-doses",
+"texto": "Hamamelis Extrato Seco 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1149,
+"link": "magnesio-quelato-200mg-30-doses",
+"texto": "Magnésio Quelato 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1150,
+"link": "colageno-hidrolisado-500mg-60-doses",
+"texto": "Colágeno Hidrolisado 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1151,
+"link": "nadh-5mg-30-doses",
+"texto": "NADH 5mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1152,
+"link": "libifem-300mg-60-doses",
+"texto": "Libifem 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1153,
+"link": "colina-250mg-30-doses",
+"texto": "Colina 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1154,
+"link": "quercetina-500mg-60-doses",
+"texto": "Quercetina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1155,
+"link": "garra-do-diabo-500mg-60-doses",
+"texto": "Garra do Diabo 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1156,
+"link": "taurina-500mg-30-doses",
+"texto": "Taurina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1157,
+"link": "ksm-66-300mg-60-doses",
+"texto": "KSM-66 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1158,
+"link": "glutalyct-350mg-60-doses",
+"texto": "Glutalyct 350mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1159,
+"link": "gluthation-250mg-30-doses",
+"texto": "Gluthation 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1160,
+"link": "msm-enxofre-biologico-500mg-60-doses",
+"texto": "MSM Enxofre Biológico 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1161,
+"link": "ferro-quelato-50mg-60-doses",
+"texto": "Ferro Quelato 50mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1162,
+"link": "vitamina-b12-500mcg-30-doses",
+"texto": "Vitamina B12 500mcg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1163,
+"link": "bitter-melon-500mg-60-doses",
+"texto": "Bitter Melon 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1164,
+"link": "neuravena-500mg-30-doses",
+"texto": "Neuravena 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1165,
+"link": "magnesio-glicil-glutamina-400mg-30-doses",
+"texto": "Magnésio Glicil Glutamina 400mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1166,
+"link": "bulbine-natalensis-500mg-30-doses",
+"texto": "Bulbine Natalensis 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1167,
+"link": "glisodim-250mg-30-doses",
+"texto": "GliSODin 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1168,
+"link": "phosfator-400mg-60-doses",
+"texto": "Phosfator 400mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1169,
+"link": "sais-biliares-300mg-90-doses",
+"texto": "Sais Biliares 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1170,
+"link": "pomegranate-350mg-60-doses",
+"texto": "Pomegranate 350mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1171,
+"link": "licopeno-10mg-30-doses",
+"texto": "Licopeno 10mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1172,
+"link": "levedo-de-cerveja-500mg-30-doses",
+"texto": "Levedo de Cerveja 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1173,
+"link": "bacopa-monnieri-250mg-90-doses",
+"texto": "Bacopa Monnieri 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1174,
+"link": "astragalus-500mg-30-doses",
+"texto": "Astragalus 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1175,
+"link": "beterraba-sweet-beet-500mg-30-doses",
+"texto": "Beterraba Sweet Beet 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1176,
+"link": "carnitina-base-500mg-60-doses",
+"texto": "Carnitina Base 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1177,
+"link": "beanblock-100mg-60-doses",
+"texto": "Beanblock 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1178,
+"link": "bioblanc-300mg-30-doses",
+"texto": "Bioblanc 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1179,
+"link": "citrusim-300mg-60-doses",
+"texto": "Citrusim 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1180,
+"link": "fosfatidil-colina-420mg-60-doses",
+"texto": "Fosfatidil Colina 420mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1181,
+"link": "fucoxantina-150mg-30-doses",
+"texto": "Fucoxantina 150mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1182,
+"link": "gelatina-500mg-90-doses",
+"texto": "Gelatina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1184,
+"link": "valeriana-ext-seco-100mg-30-doses",
+"texto": "Valeriana Extrato Seco 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1185,
+"link": "vinpocetine-6mg-60-doses",
+"texto": "Vinpocetine 6mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1186,
+"link": "verbasnol-15mg-30-doses",
+"texto": "Verbasnol 15mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1187,
+"link": "vanadio-complexo-250mcg-90-doses",
+"texto": "Vanádio Complexo 250mcg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1188,
+"link": "uchi-amarelo-250mg-60-doses",
+"texto": "Uchi Amarelo 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1189,
+"link": "urtiga-dioica-400mg-60-doses",
+"texto": "Urtiga Dioica 400mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1190,
+"link": "turkesterone-500mg-30-doses",
+"texto": "Turkesterone 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1191,
+"link": "selenio-complexo-200mcg-30-doses",
+"texto": "Selênio Complexo 200mcg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1192,
+"link": "rutina-150mg-60-doses",
+"texto": "Rutina 150mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1193,
+"link": "phytgen-200mg-30-doses",
+"texto": "Phytgen 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1194,
+"link": "lactium-150mg-30-doses",
+"texto": "Lactium 150mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1195,
+"link": "l-citrulina-500mg-60-doses",
+"texto": "L-Citrulina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1196,
+"link": "l-carnosina-500mg-60-doses",
+"texto": "L-Carnosina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1197,
+"link": "lifesolic-300mg-90-doses",
+"texto": "Lifesolic 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1198,
+"link": "huperzine-a-200mcg-30-doses",
+"texto": "Huperzine A 200mcg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1199,
+"link": "glicina-500mg-60-doses",
+"texto": "Glicina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1200,
+"link": "dente-de-leao-250mg-60-doses",
+"texto": "Dente de Leão 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1201,
+"link": "geleia-real-200mg-30-doses",
+"texto": "Geleia Real 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1202,
+"link": "desmovit-250mg-60-doses",
+"texto": "Desmovit 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1203,
+"link": "herbatonin-melatonina-vegetal-100mg-30-doses",
+"texto": "Herbatonin Melatonina Vegetal 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1204,
+"link": "melilotus-officinalis-250mg-30-doses",
+"texto": "Melilotus Officinalis 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1206,
+"link": "vitamina-e-400ui-60-doses",
+"texto": "Vitamina e 400UI em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1207,
+"link": "alanina-500mg-60-doses",
+"texto": "Alanina 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1208,
+"link": "morikol-500mg-30-doses",
+"texto": "Morikol 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1211,
+"link": "norvaline-200mg-30-doses",
+"texto": "Norvaline 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1212,
+"link": "no3-600mg-30-doses",
+"texto": "NO3 600mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1213,
+"link": "kic-100mg-30-doses",
+"texto": "KIC 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1214,
+"link": "teacrine-200mg-30-doses",
+"texto": "Teacrine 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1216,
+"link": "magnesio-treonato-300mg-60-doses",
+"texto": "Magnésio Treonato 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1217,
+"link": "derma-biotic-200mg-30-doses",
+"texto": "Derma Biotic 200mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1218,
+"link": "femini-care-100mg-30-doses",
+"texto": "Femini Care 100mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1219,
+"link": "imuno-tf-50mg-30-doses",
+"texto": "Imuno TF 50mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1220,
+"link": "corebiome-300mg-30-doses",
+"texto": "Corebiome 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1221,
+"link": "chronic-500mg-30-doses",
+"texto": "Chronic 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1222,
+"link": "okralin-600mg-60-doses",
+"texto": "Okralin 600mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1223,
+"link": "scutellaria-baicalensis-300mg-60-doses",
+"texto": "Scutellaria Baicalensis 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1224,
+"link": "ormona-500mg-30-doses",
+"texto": "Ormona 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1225,
+"link": "vegburn-150mg-30-doses",
+"texto": "Vegburn 150mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1226,
+"link": "vazguard-500mg-60-doses",
+"texto": "Vazguard 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1227,
+"link": "nuflex-3-300mg-30-doses",
+"texto": "Nuflex-3 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1228,
+"link": "metabody-500mg-60-doses",
+"texto": "Metabody 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1229,
+"link": "fadogia-agrestis-250mg-30-doses",
+"texto": "Fadogia Agrestis 250mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1230,
+"link": "riagev-500mg-30-doses",
+"texto": "Riagev 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1231,
+"link": "cava-q10-50mg-30-doses",
+"texto": "Cava Q10 50mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1232,
+"link": "adipogen-300mg-60-doses",
+"texto": "Adipogen 300mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 1233,
+"link": "acetilcisteina-500mg-60-doses",
+"texto": "N-Acetilcisteína 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5000,
+"link": "biointestil-600mg-30-doses-capsula-gastrorresistente",
+"texto": "Biointestil 600mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5001,
+"link": "lactobacillus-reuterii-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Reuteri 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5002,
+"link": "lactobacillus-johnsonii-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Johnsonii 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5003,
+"link": "lactobacillus-plantarum-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Plantarum 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5004,
+"link": "bifidobacterium-salivares-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Bifidobacterium Salivarius 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5005,
+"link": "lactobacillus-casei-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Casei 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5006,
+"link": "lactobacillus-acidophilus-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Acidophilus 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5007,
+"link": "lactobacillus-gasseri-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Gasseri 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5008,
+"link": "lactobacillus-rhamnosus-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Rhamnosus 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5009,
+"link": "streptococcus-thermofilus-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Streptococcus Thermophilus 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5010,
+"link": "lactobacillus-bulgaricus-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Bulgaricus 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5011,
+"link": "lactobacillus-paracasei-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Paracasei 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5012,
+"link": "bifidobacterium-lactis-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Bifidobacterium Lactis 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5013,
+"link": "bifidobacterium-animalis-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Bifidobacterium Animalis 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5014,
+"link": "bifidobacterium-bifidum-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Bifidobacterium Bifidum 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5015,
+"link": "bifidobacterium-longum-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Bifidobacterium Longum 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5016,
+"link": "lactobacillus-fermentum-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Fermentum 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5017,
+"link": "lactobacillus-helveticus-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Lactobacillus Helveticus 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5018,
+"link": "bifidobacterium-breve-2blh-30-doses-capsula-gastrorresistente",
+"texto": "Bifidobacterium Breve 2 bilhões em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5020,
+"link": "adidao-4mg-30-doses-capsula-gastrorresistente",
+"texto": "Adidao 4mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 5022,
+"link": "akkermansia-muciniphila-50mg-30-doses-capsula-gastrorresistente",
+"texto": "Akkermansia Muciniphila 50mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6000,
+"link": "omega-3-1000mg-90-capsulas",
+"texto": "Ômega 3 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6001,
+"link": "oleo-de-linhaca-1000mg-90-capsulas",
+"texto": "Óleo de Linhaça 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6002,
+"link": "lecitina-de-soja-1000mg-90-capsulas",
+"texto": "Lecitina de Soja 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6003,
+"link": "oleo-de-borage-500mg-90-capsulas",
+"texto": "Óleo de Borage 500mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6004,
+"link": "oleo-de-coco-1000mg-90-capsulas",
+"texto": "Óleo de Coco 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6005,
+"link": "oleo-de-cartamo-1000mg-90-capsulas",
+"texto": "Óleo de Cártamo 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6006,
+"link": "vitamina-e-400ui-90-capsulas",
+"texto": "Vitamina e 400UI em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6007,
+"link": "omega-3-1000mg-epa-330-dha-220-90-capsulas",
+"texto": "Ômega 3 EPA 330 DHA 220 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6008,
+"link": "omega-3-1000mg-epa-500-dha-100-90-capsulas",
+"texto": "Ômega 3 EPA 500 DHA 100 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6009,
+"link": "omega-3-1000mg-epa-100-dha-700-90-capsulas",
+"texto": "Ômega 3 EPA 100 DHA 700 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6010,
+"link": "omega-3-1000mg-epa-500-dha-200-90-capsulas",
+"texto": "Ômega 3 EPA 500 DHA 200 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 6011,
+"link": "omega-3-6-e-9-1000mg-90-capsulas",
+"texto": "Ômega 3 6 e 9 1000mg em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 7000,
+"link": "composto-termogenico-com-capsiate-e-cromo-60-doses",
+"texto": "Composto Termogênico com Capsiate e Cromo em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 7001,
+"link": "biotermogenico-com-cafe-verde-e-gengibre-60-doses",
+"texto": "Biotermogênico com Café Verde e Gengibre em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 7002,
+"link": "composto-com-morosil-e-citrus-aurantium-60-doses",
+"texto": "Composto com Morosil e Citrus Aurantium em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 7003,
+"link": "composto-digestivo-com-boldo-e-enzimas-60-doses",
+"texto": "Composto Digestivo com Boldo e Enzimas em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 7004,
+"link": "composto-imunidade-com-epicor-e-echinacea-60-doses",
+"texto": "Composto Imunidade com Epicor e Echinacea em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 7005,
+"link": "panto-plus-60-doses",
+"texto": "Panto Plus em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 7006,
+"link": "pill-food-com-queratina-60-doses",
+"texto": "Pill Food com Queratina em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+},
+{
+"sku": 7007,
+"link": "pill-food-60-doses",
+"texto": "Pill Food em embalagem de cápsulas da Medicinal Farmácia e Manipulação"
+}
+]
