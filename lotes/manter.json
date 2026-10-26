@@ -3,42 +3,42 @@
 "sku": 1015,
 "link": "morosil-500mg-60-doses",
 "texto": "",
-"nova_id": -1
+"nova_id": 9981
 },
 {
 "sku": 1115,
 "link": "epicor-500mg-30-doses",
 "texto": "",
-"nova_id": -1
+"nova_id": 9987
 },
 {
 "sku": 1210,
 "link": "biosil-520mg-30-doses",
 "texto": "",
-"nova_id": -1
+"nova_id": 9989
 },
 {
 "sku": 1215,
 "link": "mitburn-50mg-30-doses",
 "texto": "",
-"nova_id": -1
+"nova_id": 9985
 },
 {
 "sku": 28002,
 "link": "clonapure-100g",
 "texto": "",
-"nova_id": -1
+"nova_id": 10047
 },
 {
 "sku": 50003,
 "link": "peptistrong-chocolate-belga",
 "texto": "",
-"nova_id": -1
+"nova_id": 9940
 },
 {
 "sku": 50004,
 "link": "peptistrong-chocolate-belga",
 "texto": "",
-"nova_id": -1
+"nova_id": 10060
 }
 ]
