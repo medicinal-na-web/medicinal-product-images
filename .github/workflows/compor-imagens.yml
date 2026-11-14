@@ -21,7 +21,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install pillow==12.3.0
+      - run: pip install pillow==12.3.0 opencv-python-headless==4.10.0.84
       - run: python ferramentas/compor_pendentes.py
       - name: Publica as imagens novas
         run: |
