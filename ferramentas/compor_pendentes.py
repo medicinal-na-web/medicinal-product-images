@@ -11,6 +11,8 @@ import urllib.request
 
 sys.path.insert(0, os.path.dirname(__file__))
 from compor_imagem import compor  # noqa: E402
+from enquadrar_imagem import enquadra  # noqa: E402
+from PIL import Image  # noqa: E402
 
 API = "https://mwhlnlqxtudcgbggkqud.supabase.co/rest/v1/rpc/sitemedicinal_imagens_pendentes"
 # Chave publicável (pública por definição; a mesma usada no portal). Só executa a função acima.
@@ -34,6 +36,9 @@ for p in pendentes:
         print("já existe:", link)
         continue
     compor(os.path.join(MODELO, "poteCapsula.jpeg"), os.path.join(MODELO, "fontes"), p["nome"], saida)
+    # enquadra como as demais imagens do site: produto em ~80% do quadro, sem ampliar
+    novo, _ = enquadra(Image.open(saida).convert("RGB"), 0.8)
+    novo.save(saida, "JPEG", quality=92)
     feitas += 1
     print("composta:", link)
 print(f"{feitas} imagem(ns) nova(s) de {len(pendentes)} pendente(s)")
